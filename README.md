@@ -1,1 +1,1 @@
-# Inventory-Project
+# Alien Invasion Game made in PyGame
